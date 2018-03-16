@@ -1,0 +1,9 @@
+{ "_id" : ObjectId("598e7c00c47ce8212451c39e"), "Dname" : "Administration", "Lname" : "Wallace", "locations" : [ { "Dlocation" : "'Stafford'" } ] }
+{ "_id" : ObjectId("598e7c00c47ce8212451c39f"), "Dname" : "Hardware", "Lname" : "Freed", "locations" : [ { "Dlocation" : "'Milwaukee'" } ] }
+{ "_id" : ObjectId("598e7c00c47ce8212451c3a0"), "Dname" : "Headquarters", "Lname" : "Borg", "locations" : [ { "Dlocation" : "'Houston'" } ] }
+{ "_id" : ObjectId("598e7c00c47ce8212451c3a1"), "Dname" : "HR", "Lname" : "Linda", "locations" : [ { "Dlocation" : "'Arlington'" } ] }
+{ "_id" : ObjectId("598e7c00c47ce8212451c3a2"), "Dname" : "Networking", "Lname" : "Gupta", "locations" : [ { "Dlocation" : null } ] }
+{ "_id" : ObjectId("598e7c00c47ce8212451c3a3"), "Dname" : "QA", "Lname" : "Kirkish", "locations" : [ { "Dlocation" : "'Austin'" } ] }
+{ "_id" : ObjectId("598e7c00c47ce8212451c3a4"), "Dname" : "Research", "Lname" : "Wong", "locations" : [ { "Dlocation" : "'Bellaire'" }, { "Dlocation" : "'Sugarland'" }, { "Dlocation" : "'Houston'" } ] }
+{ "_id" : ObjectId("598e7c00c47ce8212451c3a5"), "Dname" : "Sales", "Lname" : "James", "locations" : [ { "Dlocation" : "'Chicago'" }, { "Dlocation" : "'Dallas'" }, { "Dlocation" : "'Philadephia'" }, { "Dlocation" : "'Seattle'" }, { "Dlocation" : "'Miami'" } ] }
+{ "_id" : ObjectId("598e7c00c47ce8212451c3a6"), "Dname" : "Software", "Lname" : "James", "locations" : [ { "Dlocation" : "'Atlanta'" }, { "Dlocation" : "'Sacramento'" } ] }
