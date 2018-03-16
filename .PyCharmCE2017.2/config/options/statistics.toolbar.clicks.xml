@@ -1,8 +1,0 @@
-<application>
-  <component name="ToolbarClicksCollector">
-    <counts>
-      <entry action="FileChooser.GotoDesktop@FileChooserDialog" count="1" />
-      <entry action="FileChooser.GotoProject@FileChooserDialog" count="1" />
-    </counts>
-  </component>
-</application>
